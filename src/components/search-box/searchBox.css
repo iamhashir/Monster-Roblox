@@ -1,0 +1,37 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding:10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    transition: transform 0.1s ease-out;
+}
+.bsdka{
+    padding: 22px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.search:hover  {
+    transform: scale(1.40);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
